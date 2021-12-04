@@ -10,12 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyAssignmentguess">
         <activity
-            android:name=".WrongActivity"
-            android:exported="false" />
-        <activity
-            android:name=".EndGameActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
