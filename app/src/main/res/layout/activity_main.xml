@@ -51,7 +51,6 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="50dp"
-        android:text="You haven't yet find the solution"
         android:layout_marginTop="417dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
